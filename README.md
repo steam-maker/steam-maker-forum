@@ -14,8 +14,6 @@
 - [Git和開放式創新實踐共享](https://www.digital-message.com/learn/git/)
 - [關於「貴族學校」的一點個人看法](https://www.digital-message.com/learn/elite/)
 
-這個討論帖是自我介紹「報到帖」，根據大家的要求，以後會有更多的主題。
-
 謝謝大家參與 。
 
 
