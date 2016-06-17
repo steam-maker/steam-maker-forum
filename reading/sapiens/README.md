@@ -18,3 +18,5 @@
 - [Amazon Review](https://www.amazon.com/gp/aw/reviews/B00ICN066A)
 
 - [亞馬遜買家評論](https://www.amazon.cn/gp/aw/reviews/B00NSGUFCQ)
+
+#### @wangaisheng 的读书笔记
