@@ -18,3 +18,4 @@
 - [Amazon Review](https://www.amazon.com/gp/aw/reviews/B00ICN066A)
 
 - [亞馬遜買家評論](https://www.amazon.cn/gp/aw/reviews/B00NSGUFCQ)
+- [百香果读书]https://github.com/steam-maker/steam-maker-forum/issues/43
