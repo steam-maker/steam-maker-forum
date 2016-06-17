@@ -1,5 +1,5 @@
-读书笔记
-
+读书笔记 [討論](https://github.com/steam-maker/steam-maker-forum/issues/43)
+ 
 # Sapiens: A Brief History of Humankind
 
 # 人类简史:从动物到上帝
@@ -18,4 +18,3 @@
 - [Amazon Review](https://www.amazon.com/gp/aw/reviews/B00ICN066A)
 
 - [亞馬遜買家評論](https://www.amazon.cn/gp/aw/reviews/B00NSGUFCQ)
-
