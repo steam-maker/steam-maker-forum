@@ -11,13 +11,14 @@
 - [自我介紹](https://github.com/steam-maker/steam-maker-forum/issues/6)
 - [論壇最新討論](https://github.com/steam-maker/steam-maker-forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
-背景資料
+有關文章
 
-- [關於STEM的理解](https://www.digital-message.com/learn/STEM/)
-- [STEM + A = STEAM](https://www.digital-message.com/learn/STEAM/)
-- [從印刷術到3D打印](https://www.digital-message.com/learn/3D/)
-- [Git和開放式創新實踐共享](https://www.digital-message.com/learn/git/)
-- [關於「貴族學校」的一點個人看法](https://www.digital-message.com/learn/elite/)
+- [關於STEM的理解](STEM)
+- [STEM + A = STEAM](STEAM)
+- [從印刷術到3D打印](3D)
+- [Git和開放式創新實踐共享](git)
+- [關於「貴族學校」的一點個人看法](elite)
+- [大陆学生诚信问题解决方案](trust)
 
 謝謝大家參與 。
 
