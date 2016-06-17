@@ -1,9 +1,8 @@
-#「人類簡史」合作閱讀筆記 
-[論壇討論](https://github.com/steam-maker/steam-maker-forum/issues/43)
+读书笔记 [討論](https://github.com/steam-maker/steam-maker-forum/issues/43)
  
-## Sapiens: A Brief History of Humankind
+# Sapiens: A Brief History of Humankind
 
-## 人类简史:从动物到上帝
+# 人类简史:从动物到上帝
 
 
 這本書的最大特點是「仁者見仁 ，智者見智」。看了其他人的書評就知道了。所以歡迎大家從自己的角度來看和分享評論。
