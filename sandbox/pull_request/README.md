@@ -13,5 +13,6 @@
 >>> 然后点击propose file change按钮
 >>> * *
 >>> 跳转界面后点击pull request（左边一个好醒目的绿色按钮）
->>> 
+>>> * *
 >>> 接着点击（create pull request按钮）
+>>> * *
