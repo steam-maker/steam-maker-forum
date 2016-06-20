@@ -16,3 +16,8 @@
 >>> * *
 >>> 接着点击（create pull request按钮）
 >>> * *
+
+在提交Pull requests之后，且未被Merge之前，可以找到自己的Pull requests进行编辑。
+此时有两个方法
+*Commit directly to the branch.
+*Create a new branch for this commit and start a pull request.
