@@ -1,3 +1,7 @@
+---
+English title : International STEAM Maker Forum 
+Chinese title : 國際STEAM創客論壇 
+---
 ## International STEAM Maker Forum 
 
 ## 國際STEAM創客論壇 
@@ -10,16 +14,6 @@
 
 - [自我介紹](https://github.com/steam-maker/steam-maker-forum/issues/6)
 - [論壇最新討論](https://github.com/steam-maker/steam-maker-forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
-
-有關文章
-
-- [關於STEM的理解](STEM)
-- [STEM + A = STEAM](STEAM)
-- [從印刷術到3D打印](3D)
-- [Git和開放式創新實踐共享](git)
-- [關於「貴族學校」的一點個人看法](elite)
-- [大陆学生诚信问题解决方案](trust)
-- [「人類簡史」合作閱讀筆記](reading/sapiens)
 
 謝謝大家參與 。
 
