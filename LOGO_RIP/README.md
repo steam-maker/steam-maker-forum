@@ -10,7 +10,7 @@ To run it, please copy and paste the code to http://www.calormen.com/jslogo/
 [RIP.logo](RIP.logo)
 
 ```logo
-To R
+TO R
   pendown
   fd 200
   repeat 3 [rt 90 fd 100]
@@ -19,7 +19,7 @@ To R
   lt 45
   penup
 END
-to I
+TO I
   pendown
   fd 200
   penup
