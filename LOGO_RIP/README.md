@@ -5,7 +5,7 @@
 ![](RIP.png)
 
 
-To run it, please copy and paste the code to to http://www.calormen.com/jslogo/
+To run it, please copy and paste the code to http://www.calormen.com/jslogo/
 
 [RIP.logo](RIP.logo)
 
