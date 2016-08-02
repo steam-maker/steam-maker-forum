@@ -6,4 +6,4 @@
 
 To run it, please go to http://www.calormen.com/jslogo/
 
-![](RIP.png]
+![](RIP.png)
