@@ -1,0 +1,37 @@
+To R
+  pendown
+  fd 200
+  repeat 3 [rt 90 fd 100]
+  lt 135
+  fd 144
+  lt 45
+  penup
+END
+to I
+  pendown
+  fd 200
+  penup
+END
+TO P
+  pendown
+  repeat 3 [fd 100 rt 90]
+  fd 100
+  rt 180
+  fd 200
+  penup
+END
+clearscreen
+penup
+lt 90
+fd 150
+rt 90
+R
+fd 50
+lt 90
+I
+rt 90
+fd 50
+P
+lt 90
+fd 100
+lt 90
